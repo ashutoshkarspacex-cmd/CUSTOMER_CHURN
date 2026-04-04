@@ -1,6 +1,7 @@
+
 # 📊 Customer Churn Prediction using Random Forest
 
-## 📌 OvervieW
+## 📌 Overview
 This project focuses on predicting **customer churn** using Machine Learning.  
 It analyzes customer data to determine whether a customer is likely to **leave a service**.
 
@@ -100,10 +101,12 @@ precision    recall  f1-score   support
 
            0       0.84      0.90      0.87      1311
            1       0.62      0.48      0.54       447
-
+ 
+ 
     accuracy                           0.79      1758
    macro avg       0.73      0.69      0.70      1758
 weighted avg       0.78      0.79      0.78      1758
+
 - Accuracy  
 - Precision  
 - Recall  
@@ -112,6 +115,7 @@ weighted avg       0.78      0.79      0.78      1758
 ---
 
 ## 💡 Features
+- End-to-end ML pipeline  
 - Automated EDA report generation  
 - Ensemble learning using Random Forest  
 - Scalable and robust model  
