@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction using Random Forest
 
-## 📌 Overview
+## 📌 OvervieW
 This project focuses on predicting **customer churn** using Machine Learning.  
 It analyzes customer data to determine whether a customer is likely to **leave a service**.
 
