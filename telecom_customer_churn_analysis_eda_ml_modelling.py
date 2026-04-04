@@ -723,8 +723,8 @@ plt.show()
 
 from ydata_profiling import ProfileReport
 
-profile=ProfileReport(df,title="harsh_new_report1",explorative=True)
-profile.to_file("Harsh_new_report2.html")
+profile=ProfileReport(df,title="AK_new_report1",explorative=True)
+profile.to_file("AK_new_report2.html")
 
 # import plotly.graph_objects as go
 # import numpy as np
