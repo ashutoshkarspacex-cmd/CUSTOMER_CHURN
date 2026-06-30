@@ -1,5 +1,5 @@
 
-# 📊 Customer Churn Prediction using Random Forest
+# 📊 Customer Churn Prediction using Random Forest Classifier
 
 ## 📌 Overview
 This project focuses on predicting **customer churn** using Machine Learning.  
@@ -120,10 +120,3 @@ weighted avg       0.78      0.79      0.78      1758
 - Ensemble learning using Random Forest  
 - Scalable and robust model  
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository
-```bash
-git clone <your-repo-link>
